@@ -1,0 +1,11 @@
+.message  {
+    margin: auto;
+    font-size: 40px;
+    color: #000000;
+    height: 100%;
+    text-align: center;
+    font-family: monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
